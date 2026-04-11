@@ -1,5 +1,7 @@
 {
   "itemGroup.catchandtame.main_tab": "Catch And Tame",
   "item.catchandtame.tame_ball": "Tame Ball",
-  "item.catchandtame.carry_ball": "Carry Ball"
+  "item.catchandtame.carry_ball": "Carry Ball",
+  "item.catchandtame.breed_stick": "Mutagenic Breed Stick",
+  "entity.catchandtame.mutant": "Genetic Mutant"
 }

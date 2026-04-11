@@ -13,4 +13,7 @@ public class ItemInit {
 
     public static final RegistryObject<Item> TAME_BALL = ITEMS.register("tame_ball", 
             () -> new TameBallItem(new Item.Properties()));
+
+    public static final RegistryObject<Item> BREED_STICK = ITEMS.register("breed_stick", 
+            () -> new BreedStickItem(new Item.Properties()));
 }
