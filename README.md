@@ -29,6 +29,13 @@ Play mad scientist and create unspeakable horrors (or beautiful new species) via
 * **Procedural Chimera Rendering:** Instead of basic model swapping, the mod uses reflection geometry to algorithmically slice and seamlessly weave the 3D meshes of both parents directly on top of each other at runtime based on deterministic random seeds. Half their limbs disappear to form bizarre biological hybrid anatomy!
 * **Shared Entity Architecture:** The fused monstrosity dynamically shares the animations and exact NBT metadata attributes of its original, separate host bodies under a unified moving host entity wrapper.
 
+### Examples of Procedural Chimeras
+*Here are some actual creations that players have dynamically synthesized in-game using the Breed Stick!*
+
+![Chimera Creation 1](images/mutant1.png)
+
+![Chimera Creation 2](images/mutant2.png)
+
 ## Installation
 1. Install [Minecraft Forge 1.20.1 (47.2.0 or higher) / 47.4.10 tested].
 2. Drop the `catchandtame-1.0.0.jar` into your Minecraft `mods` folder.
